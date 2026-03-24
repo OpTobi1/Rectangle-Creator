@@ -4,14 +4,14 @@
 This is a Java-based console application designed for educational purposes, focusing on rectangle geometry. It allows users to calculate rectangle properties and features an interactive quiz system for students.
 
 ## Features
-* [cite_start]**Core Calculations:** Calculates the area ($w \cdot h$), perimeter ($2 \cdot h + 2 \cdot w$), and diagonal ($\sqrt{h^2 + w^2}$) of a given rectangle[cite: 98, 99].
-* [cite_start]**Interactive Student Quiz:** * Iterates through pre-defined arrays of widths and heights[cite: 102, 107].
-  * [cite_start]Prompts the user to input their calculated area, perimeter, and diagonal[cite: 108, 109, 110].
-  * [cite_start]Grades the user's answers and outputs a final score[cite: 111, 128].
-* [cite_start]**Area Comparison:** Compares three user-defined rectangles and identifies which ones have equal areas[cite: 129, 130, 132].
+* **Core Calculations:** Calculates the area (width * height), perimeter (2 * height + 2 * width), and diagonal length of a given rectangle.
+* **Interactive Student Quiz:** * Iterates through pre-defined arrays of widths and heights.
+  * Prompts the user to input their calculated area, perimeter, and diagonal.
+  * Grades the user's answers and outputs a final score.
+* **Area Comparison:** Compares three user-defined rectangles and identifies which ones have equal areas.
 
 ## File Structure
-* [cite_start]`Rectangle1.java`: The core model class representing a rectangle with its properties and calculation methods[cite: 101].
+* `Rectangle1.java`: The core model class representing a rectangle with its properties and calculation methods.
 * `RectangleTester.java`: The main execution class containing both the interactive quiz and the area comparison logic.
 
 ## How to Run
