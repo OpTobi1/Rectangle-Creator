@@ -6,8 +6,8 @@ This is a Java-based console application designed for educational purposes, focu
 ## Features
 * **Core Calculations:** Calculates the area ($w \cdot h$), perimeter ($2 \cdot h + 2 \cdot w$), and diagonal ($\sqrt{h^2 + w^2}$) of a given rectangle[cite: 98, 99].
 * **Interactive Student Quiz:** * Iterates through pre-defined arrays of widths and heights[cite: 102, 107].
-  * Prompts the user to input their calculated area, perimeter, and diagonal[cite: 108, 109, 110].
-  * Grades the user's answers and outputs a final score[cite: 111, 128].
+  * Prompts the user to input their calculated area, perimeter, and diagonal [cite: 108, 109, 110].
+  * Grades the user's answers and outputs a final score [cite: 111, 128].
 * **Area Comparison:** Compares three user-defined rectangles and identifies which ones have equal areas[cite: 129, 130, 132].
 
 ## File Structure
